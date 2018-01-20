@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import urllib.request
 import os
-import webbrowser
+
 #网址
 url = "http://www.baidu.com"
 #请求
